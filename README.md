@@ -1,2 +1,2 @@
 # linked-list
-OPERATIONS ON LINKED LISTadding an element (at last, start &amp; position), deleting 
+OPERATIONS ON LINKED LIST: adding a node (at last, start &amp; position), deleting a node(at last, start &amp; position), finding middle node(without counting), reverse, sorting (by bubble sort), displaying.
